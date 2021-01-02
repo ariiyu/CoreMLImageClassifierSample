@@ -9,6 +9,7 @@
 import Foundation
 import Vision
 import CoreML
+import CoreImage
 
 @objc(FoodClassifier)
 class FoodClassifier: NSObject {
